@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HitCube : MonoBehaviour
 {
-    private Color[] OnHitColors = { Color.green, Color.blue, Color.cyan, Color.red, Color.magenta };
+    private Color[] OnHitColors = { Color.green, Color.blue, Color.cyan, Color.magenta };
 
     private bool bCanHit = true;
     // Start is called before the first frame update
